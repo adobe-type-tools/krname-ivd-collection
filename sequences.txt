@@ -1,0 +1,40 @@
+# Combined registration of the KRName collection and of sequences in that collection
+# Version 2017-04-07
+# Prepared by Ken Lunde (lunde@adobe.com), Adobe Systems Incorporated
+537F; KRName; KRName_537F_01
+537F; KRName; KRName_537F_02
+5795; KRName; KRName_5795_01
+5795; KRName; KRName_5795_02
+57CE; KRName; KRName_57CE_01
+57CE; KRName; KRName_57CE_02
+5ABA; KRName; KRName_5ABA_01
+5ABA; KRName; KRName_5ABA_02
+6210; KRName; KRName_6210_01
+6210; KRName; KRName_6210_02
+665F; KRName; KRName_665F_01
+665F; KRName; KRName_665F_02
+6674; KRName; KRName_6674_01
+6674; KRName; KRName_6674_02
+695E; KRName; KRName_695E_01
+695E; KRName; KRName_695E_02
+6D77; KRName; KRName_6D77_01
+6D77; KRName; KRName_6D77_02
+76DB; KRName; KRName_76DB_01
+76DB; KRName; KRName_76DB_02
+8056; KRName; KRName_8056_01
+8056; KRName; KRName_8056_02
+83BD; KRName; KRName_83BD_01
+83BD; KRName; KRName_83BD_02
+865C; KRName; KRName_865C_01
+865C; KRName; KRName_865C_02
+8941; KRName; KRName_8941_01
+8941; KRName; KRName_8941_02
+8AA0; KRName; KRName_8AA0_01
+8AA0; KRName; KRName_8AA0_02
+8ACB; KRName; KRName_8ACB_01
+8ACB; KRName; KRName_8ACB_02
+927C; KRName; KRName_927C_01
+927C; KRName; KRName_927C_02
+9F9C; KRName; KRName_9F9C_01
+9F9C; KRName; KRName_9F9C_02
+# EOF

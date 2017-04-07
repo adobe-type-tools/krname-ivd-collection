@@ -1,0 +1,8 @@
+# Command lines for building OTF
+#
+# Version 2017-04-06
+#
+
+makeotf -f cidfont.ps -omitMacNames -ff features -fi cidfontinfo -mf FontMenuNameDB -r -nS -cs 3 -ch UniKRName-UTF32-H -ci KRName_sequences.txt
+
+# EOF
