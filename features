@@ -3,7 +3,7 @@ languagesystem hani dflt;
 languagesystem latn dflt;
 
 table head {
-  FontRevision 1.001;
+  FontRevision 1.002;
 } head;
 
 table hhea {
@@ -56,9 +56,13 @@ table OS/2 {
   WidthClass 5;
   Panose 2 2 4 0 0 0 0 0 0 0;
   UnicodeRange 0 59;
-  CodePageRange 1252 949;
+  CodePageRange 1252 932 949;
   FSType 0;
   Vendor "ADBO";
   winAscent 1151;
   winDescent 286;
 } OS/2;
+
+feature aalt {
+  substitute \1 by \1;
+} aalt;
