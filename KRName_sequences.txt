@@ -1,3 +1,6 @@
+# Registered KRName IVSes
+# Version 2017-12-12
+# Prepared by Dr. Ken Lunde (lunde@adobe.com), Adobe Systems Incorporated
 537F E0108; KRName; CID+2
 537F E0109; KRName; CID+3
 5795 E0101; KRName; CID+4
@@ -34,3 +37,4 @@
 927C E0104; KRName; CID+35
 9F9C E0107; KRName; CID+36
 9F9C E0108; KRName; CID+37
+# EOF
