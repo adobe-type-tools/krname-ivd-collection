@@ -22,4 +22,4 @@ In this repository, all necessary files are in place for building the OpenType/C
 
 ## Getting Involved
 
-Send suggestions for changes to the KRName IVD Collection project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20KRName%20IVD%20Collection), for consideration.
+Suggest changes by submitting an [Issue](https://github.com/adobe-type-tools/krname-ivd-collection/issues).
